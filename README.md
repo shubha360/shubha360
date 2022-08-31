@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I am Raquibul Islam</h1>
 <br>
-💻 I'm currently learning Full-stack Web Development.<br>
-🎪 I have experience in Game Development, Mobile App Development, and Problem Solving.<br>
-🎨 I have a basic working knowledge of graphics design and video editing.<br>
-👬 I am looking to collaborate in any field of programming.<br>
-🎸 Fun fact? I can play guitar.
+🔹 I'm currently learning Full-stack Web Development.<br>
+🔹 I have experience in Game Development, Mobile App Development, and Problem Solving.<br>
+🔹 I have a basic working knowledge of graphics design and video editing.<br>
+🔹 I am looking to collaborate in any field of programming.<br>
+🔹 Fun fact? I can play guitar.
 
 <h3>Tech Skills</h3>
 <span><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></span>
@@ -25,13 +25,10 @@
 
 <h3>Statistics<h3>
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=shubha360&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=shubha360&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubha360&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubha360&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubha360&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 <h3>Connect with me</h3>
 <a href="https://linkedin.com/in/shubha360" target="_blank">
