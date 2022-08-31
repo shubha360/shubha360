@@ -6,7 +6,7 @@
 👬 I am looking to collaborate in any field of programming.<br>
 🎸 Fun fact? I can play guitar.
 
-<h2>Tech Skills</h2>
+<h3>Tech Skills</h3>
 <span><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></span>
 <span><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></span>  
 <span><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></span>
@@ -23,10 +23,18 @@
 <span><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="40" /></span>
 </div>
 
-<h2>Connect with me</h2>
-<a href="https://github.com/shubha360" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<h3>Statistics<h3>
+
+![](https://github-readme-stats.vercel.app/api?username=shubha360&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shubha360&theme=vision-friendly-dark&hide_border=true)<br/>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubha360&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+<h3>Connect with me</h3>
 <a href="https://linkedin.com/in/shubha360" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
